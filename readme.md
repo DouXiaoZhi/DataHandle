@@ -6,7 +6,7 @@
 +  语言为MatLab
 
 ## 函数介绍
-+ getRSSi：将.txt文件转化为.mat文件
++ getRssi：将.txt文件转化为.mat文件
 + map: 取数据程序
 + addMap：为map程序运行后的结果中增加数据的程序
 + getOrder: 根据指纹库的BSSID表得到当前数据的BSSID顺序
@@ -23,6 +23,10 @@
 + 然后利用watchData程序查看每组数据中四段程序的数据分割点，根据z轴角度的变化分割数据
 + 然后利用MapConstruction程序构建指纹库
 + 把指纹库和BSSID表输出到电脑中指定的位置
+
+## 示例
++ dataRssi_at_.txt几个文件为采集的几组原始数据
++ dataBssid_1.txt为采集数据的BSSID文件
 
 ##其他
 + 这个工具包现只适用于正方形的走廊中提取的数据的处理与指纹库的构建
