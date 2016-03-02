@@ -31,4 +31,4 @@
 ##其他
 + 这个工具包现只适用于正方形的走廊中提取的数据的处理与指纹库的构建
 + 典型的走廊结构如下图所示
-![](https://raw.githubusercontent.com/DouXiaoZhi/DataHandle/master/device-2016-03-01-214949.png)
++ ![](https://raw.githubusercontent.com/DouXiaoZhi/DataHandle/master/device-2016-03-01-214949.png)
